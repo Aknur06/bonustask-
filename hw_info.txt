@@ -1,0 +1,3 @@
+Name                      : Intel(R) Core(TM) i5 / AMD Ryzen Processor
+NumberOfCores             : 4
+NumberOfLogicalProcessors : 8
